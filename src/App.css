@@ -1,0 +1,21 @@
+.nav-list{
+    width: 1300px;
+    height: 100px;
+    border: 1px solid;
+    margin: 0 auto;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.login-page {
+    width: 360px;
+    padding: 8% 0 0;
+    margin: auto;
+  }
+  
+  
+  
+  
